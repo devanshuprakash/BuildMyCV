@@ -2,7 +2,7 @@ import React from 'react'
 
 const Preview = () => {
   return (
-    <div>Preview</div>
+    <h1>Preview</h1>
   )
 }
 
